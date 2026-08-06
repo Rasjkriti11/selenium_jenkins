@@ -1,1 +1,1 @@
-# selenium_jenkins
+# getting started with selenium with jenkins
